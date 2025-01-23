@@ -19,7 +19,7 @@ const products = [
   {
       title: "Кроссовки Puma X Aka Boku Future Rider",
       image: "./src/image 5.jpeg",
-      price: "8 999 руб."
+      price: "8 999 руб.git"
   },
   {
       title: "Мужские Кроссовки Under Armour Curry 8",
